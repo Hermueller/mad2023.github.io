@@ -91,3 +91,8 @@ No other methods for better synthetic anomalie generation (e.g. MemSeg) were tes
 ![WML](./result_images_DRAEM/wml.png)
 **AAE**:
 ![WML](./result_images_AAE/wml.png)
+
+## DRAEM scores with other Texture Dataset
+The first plot uses DTD for the synthetic anomalies while the second plot uses the same (anomaly-free) MRI dataset for the synthetic anomalies.
+
+![F1-Synthetic-Anomalies](./others/MRI-Anomaly-Dataset.png)
